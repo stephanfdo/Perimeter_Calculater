@@ -1,0 +1,11 @@
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\bin\Debug\ShapePerimeterCalculatorClient.exe.config
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\bin\Debug\ShapePerimeterCalculatorClient.exe
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\bin\Debug\ShapePerimeterCalculatorClient.pdb
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.csproj.AssemblyReference.cache
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.mainForm.resources
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.Properties.Resources.resources
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.csproj.GenerateResource.cache
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.csproj.CoreCompileInputs.cache
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.exe
+C:\Users\yasas\source\SA\ShapePerimeterCalculatorClient\ShapePerimeterCalculatorClient\obj\Debug\ShapePerimeterCalculatorClient.pdb
